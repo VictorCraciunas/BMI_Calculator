@@ -28,7 +28,8 @@ The app consists of two main screens:
    - Shows the BMI category (Underweight, Normal, Overweight).  
    - Provides an interpretation of the result.  
    - A "Recalculate BMI" button navigates back to the input page.
-![im1](imagines/im1.jpg
+   - 
+![im1](imagines/im1.jpg)
 ## File Structure
 ```
 /lib
