@@ -20,7 +20,7 @@ The app consists of two main screens:
    - A slider allows users to adjust height.  
    - Buttons allow increasing or decreasing weight and age.  
    - A "Calculate BMI" button navigates to the results page.  
-![im2](imagines/im2.jpg
+![im2](imagines/im2.jpg)
 
 
 2. **Result Page**  
