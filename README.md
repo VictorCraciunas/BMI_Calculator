@@ -20,7 +20,7 @@ The app consists of two main screens:
    - A slider allows users to adjust height.  
    - Buttons allow increasing or decreasing weight and age.  
    - A "Calculate BMI" button navigates to the results page.  
-![im2](images/im2.png
+![im2](imagines/im2.png
 
 
 2. **Result Page**  
@@ -28,9 +28,7 @@ The app consists of two main screens:
    - Shows the BMI category (Underweight, Normal, Overweight).  
    - Provides an interpretation of the result.  
    - A "Recalculate BMI" button navigates back to the input page.
-  
-   - 
-![im1](images/im1.png
+![im1](imagines/im1.png
 ## File Structure
 ```
 /lib
@@ -54,7 +52,7 @@ The app consists of two main screens:
 
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/VictorCraciunas/BMI_Calculator.git
    ```
 2. Navigate to the project folder  
    ```sh
